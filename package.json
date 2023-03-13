@@ -1,0 +1,14 @@
+{
+  "name": "projec13a",
+  "version": "1.0.0",
+  "description": "I will mark Chapter 13, Project 3 in textbook, pages 708-710. I have also provided a PDF of those pages. The last set of exercises in Lab13 provide step-by-step exercises for creating a simple chat client, which you are expanding here.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Joel Conley",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
